@@ -1,0 +1,15 @@
+# ABA Guardrail Studio
+- [x] Create stored synthetic notes, cases, rules and sources.
+- [x] Build console screens and authenticated navigation.
+- [x] Finish fail-closed verification, privacy checks and immutable audit persistence.
+- [x] Correct dashboard measurements and safe review permissions.
+- [x] Verify signed-in run → evidence → review → audit flow and mobile layout.
+- [x] Save architecture rules and verify final preview.
+- [x] Import all 32 original Group 2 cases idempotently, initially unexecuted and provisional.
+- [x] Persist Rule_Map, Group1_Interface, Decision_Map and Acceptance_Tests as distinct models.
+- [x] Distinguish independently executed checks, simulated candidates and unavailable live model runs.
+- [x] Apply professional blue styling and expose Group 2 evidence and mappings.
+- [x] Verify imports, execution logic and signed-in screens; save changes.
+- [ ] Previous security fixes await confirmation and initial administrator account selection.
+- [x] Add page-specific interactive guidance for uploads, document interpretation, reviews and report downloads.
+- [x] Verify walkthrough navigation, control highlighting and mobile layout without changing stored results.
